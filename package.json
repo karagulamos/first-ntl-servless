@@ -1,0 +1,23 @@
+{
+  "name": "first-ntl-servless",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karagulamos/first-ntl-servless.git"
+  },
+  "author": "Alexander Karagulamos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karagulamos/first-ntl-servless/issues"
+  },
+  "homepage": "https://github.com/karagulamos/first-ntl-servless#readme",
+  "devDependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
